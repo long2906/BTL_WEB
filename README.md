@@ -7,7 +7,7 @@
   + Open XAMPP -> Chạy Apache, MySQL
   + Truy cập User bằng: http://localhost/ivyfullstak/
   Với tài khoản: 
-                Có thể đăng kí tại trang chủ ở trên - rồi đăng nhập
+                Có thể đăng kí tại trang chủ ở trên -> rồi đăng nhập
   + Truy cập trang admin : http://localhost/ivyfullstak/admin/
   Với tài khoản: 
                 Tên tài khoản: MinhHoang
